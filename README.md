@@ -1,2 +1,5 @@
 # hello-world
-Learn about repository
+
+Hi Peeps!!
+
+I am new to this GitHub....I like to do programing..
